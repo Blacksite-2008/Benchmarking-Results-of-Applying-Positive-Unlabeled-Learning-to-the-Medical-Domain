@@ -1,5 +1,1 @@
-#!/bin/bash
-#SBATCH --partition=vgpu40
-#SBATCH --gres=gpu:1
-
-srun python3.9 train.py -p exp-ptb -g 0 -e 200 -seed 1
+python train.py -p exp-mit -g 0 -e 200 -seed 1
