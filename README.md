@@ -1,6 +1,6 @@
 # Benchmarking-Results-of-Applying-Positive-Unlabeled-Learning-to-the-Medical-Domain
 
-The experiments will be carried out by three implementations in pairwise, uPU and nnPU, nnPU and ImbalancednnPU.
+The experiments are carried out by three implementations in pairwise, uPU and nnPU, nnPU and ImbalancednnPU.
 
 Example of code execuation is in run.sh
 
