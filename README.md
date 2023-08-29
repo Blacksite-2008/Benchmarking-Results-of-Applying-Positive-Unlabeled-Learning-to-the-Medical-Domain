@@ -1,6 +1,14 @@
 # Benchmarking-Results-of-Applying-Positive-Unlabeled-Learning-to-the-Medical-Domain
 
-The experiments are carried out by three implementations in pairwise, uPU and nnPU, nnPU and ImbalancednnPU.
+The experiments are carried out by three implementations in pairwise, uPU and nnPU, nnPU and ImbalancednnPU. This is a reproducing code for the project.
+
+Requirements:
+1. Python
+2. Numpy
+3. Chainer
+4. PyTorch
+5. Scikit-learn
+6. Matplotlib
 
 Example of code execuation is in run.sh
 
